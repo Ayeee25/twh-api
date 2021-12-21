@@ -1,0 +1,79 @@
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.deps.json
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csprojAssemblyReference.cache
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfoInputs.cache
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfo.cs
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.CopyComplete
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.deps.json
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csprojAssemblyReference.cache
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfoInputs.cache
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfo.cs
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.CopyComplete
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.deps.json
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csprojAssemblyReference.cache
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfoInputs.cache
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfo.cs
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.CopyComplete
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.deps.json
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.AssemblyReference.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfoInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfo.cs
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.CopyComplete
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.pdb
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.deps.json
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.dll
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\cargaclic.repository.pdb
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.dll
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.dll
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.dll
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Data.pdb
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\CargaClic.Domain.pdb
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.AssemblyReference.cache
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfoInputs.cache
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.AssemblyInfo.cs
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.CoreCompileInputs.cache
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.csproj.CopyComplete
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.dll
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Escritura\CargaCLic.repository\obj\Debug\netstandard2.0\cargaclic.repository.pdb

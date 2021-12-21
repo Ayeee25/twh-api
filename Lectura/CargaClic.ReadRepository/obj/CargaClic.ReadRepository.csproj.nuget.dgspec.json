@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.ReadRepository\\CargaClic.ReadRepository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\kike_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kike_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "runtime.native.System.Data.SqlClient.sni": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj",
+        "projectName": "CargaClic.Data",
+        "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj",
+        "packagesPath": "C:\\Users\\kike_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kike_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj"
+              },
+              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj": {
+                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj",
+        "projectName": "CargaClic.Domain",
+        "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj",
+        "packagesPath": "C:\\Users\\kike_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kike_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.ReadRepository\\CargaClic.ReadRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.ReadRepository\\CargaClic.ReadRepository.csproj",
+        "projectName": "CargaClic.ReadRepository",
+        "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.ReadRepository\\CargaClic.ReadRepository.csproj",
+        "packagesPath": "C:\\Users\\kike_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.ReadRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kike_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj"
+              },
+              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj": {
+                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

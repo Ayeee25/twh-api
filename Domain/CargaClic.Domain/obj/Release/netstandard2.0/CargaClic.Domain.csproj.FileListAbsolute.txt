@@ -1,0 +1,46 @@
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.deps.json
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\bin\Release\netstandard2.0\Common.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\bin\Release\netstandard2.0\Common.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csprojAssemblyReference.cache
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.AssemblyInfoInputs.cache
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.AssemblyInfo.cs
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csproj.CopyComplete
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.deps.json
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\Common.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\Common.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csprojAssemblyReference.cache
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.AssemblyInfoInputs.cache
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.AssemblyInfo.cs
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csproj.CopyComplete
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.deps.json
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\Common.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\Common.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csprojAssemblyReference.cache
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.AssemblyInfoInputs.cache
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.AssemblyInfo.cs
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csproj.CopyComplete
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.deps.json
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\Common.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\bin\Release\netstandard2.0\Common.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csproj.AssemblyReference.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.AssemblyInfoInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.AssemblyInfo.cs
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.csproj.CopyComplete
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Domain\CargaClic.Domain\obj\Release\netstandard2.0\CargaClic.Domain.pdb

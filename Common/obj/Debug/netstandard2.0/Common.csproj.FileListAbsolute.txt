@@ -1,0 +1,53 @@
+C:\Users\ENRIQUE\OneDrive\RIA\2018\Proyecto Avengers\app\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\ENRIQUE\OneDrive\RIA\2018\Proyecto Avengers\app\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\ENRIQUE\OneDrive\RIA\2018\Proyecto Avengers\app\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\ENRIQUE\OneDrive\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\ENRIQUE\OneDrive\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\ENRIQUE\OneDrive\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\ENRIQUE\OneDrive\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\ENRIQUE\OneDrive\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\ENRIQUE\OneDrive\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\RIA\RIA\2018\Proyecto Avengers\app\Common\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\RIA\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\RIA\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\RIA\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Common\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Common\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Common\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.pdb

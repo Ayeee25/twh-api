@@ -1,0 +1,62 @@
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.deps.json
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Data.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\Common.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\Common.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Data.pdb
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csprojAssemblyReference.cache
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.AssemblyInfoInputs.cache
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.AssemblyInfo.cs
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csproj.CopyComplete
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.dll
+D:\RIA\RIA\2018\Proyecto Avengers\app\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.deps.json
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Data.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\Common.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\Common.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Data.pdb
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csprojAssemblyReference.cache
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.AssemblyInfoInputs.cache
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.AssemblyInfo.cs
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csproj.CopyComplete
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.dll
+D:\RIA\RIA\2020\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.deps.json
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Data.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\Common.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\Common.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Data.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csprojAssemblyReference.cache
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.AssemblyInfoInputs.cache
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.AssemblyInfo.cs
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csproj.CopyComplete
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.dll
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.pdb
+D:\RIA\CodigosFuente\TWH\WMS\twh.web\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.deps.json
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.ReadRepository.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Data.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\Common.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\Common.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\bin\Release\netstandard2.0\CargaClic.Data.pdb
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csproj.AssemblyReference.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.AssemblyInfoInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.AssemblyInfo.cs
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.csproj.CopyComplete
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.dll
+D:\RIA\Aplicaciones\TWH\twh\twh-api\Lectura\CargaClic.ReadRepository\obj\Release\netstandard2.0\CargaClic.ReadRepository.pdb

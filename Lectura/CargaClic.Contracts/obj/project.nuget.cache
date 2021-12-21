@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZmXN9nkMlIBO9wQK7T/xurhctvh1C9etEhz6q8mHm9DFP8FNLl6XIIj/eUUt8XRuGGUCZ9q13wxgZrBTFxa4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kike_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kike_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kike_\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.5.0\\runtime.native.system.data.sqlclient.sni.4.5.0.nupkg.sha512",
+    "C:\\Users\\kike_\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\kike_\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\kike_\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
