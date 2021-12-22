@@ -57,3 +57,16 @@ C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Lectura\CargaCLic.Contracts\obj\D
 C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.csproj.CopyComplete
 C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.dll
 C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.pdb
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\bin\Debug\netstandard2.0\CargaClic.Contracts.deps.json
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\bin\Debug\netstandard2.0\CargaClic.Contracts.dll
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\bin\Debug\netstandard2.0\CargaClic.Contracts.pdb
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.csproj.AssemblyReference.cache
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.AssemblyInfoInputs.cache
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.AssemblyInfo.cs
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.csproj.CopyComplete
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.dll
+D:\RIA\Aplicaciones\TWH\app\twh-api\Lectura\CargaCLic.Contracts\obj\Debug\netstandard2.0\CargaClic.Contracts.pdb

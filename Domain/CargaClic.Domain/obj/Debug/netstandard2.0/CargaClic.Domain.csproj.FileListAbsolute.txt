@@ -57,3 +57,16 @@ C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Domain\CargaClic.Domain\bin\Debug
 C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Domain\CargaClic.Domain\bin\Debug\netstandard2.0\Common.dll
 C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Domain\CargaClic.Domain\bin\Debug\netstandard2.0\Common.pdb
 C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Domain\CargaClic.Domain\obj\Debug\netstandard2.0\CargaClic.Domain.csproj.CopyComplete
+d:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\bin\Debug\netstandard2.0\CargaClic.Domain.deps.json
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\bin\Debug\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\bin\Debug\netstandard2.0\CargaClic.Domain.pdb
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\obj\Debug\netstandard2.0\CargaClic.Domain.csproj.AssemblyReference.cache
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\obj\Debug\netstandard2.0\CargaClic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\obj\Debug\netstandard2.0\CargaClic.Domain.AssemblyInfoInputs.cache
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\obj\Debug\netstandard2.0\CargaClic.Domain.AssemblyInfo.cs
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\obj\Debug\netstandard2.0\CargaClic.Domain.csproj.CoreCompileInputs.cache
+d:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\obj\Debug\netstandard2.0\CargaClic.Domain.csproj.CopyComplete
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\obj\Debug\netstandard2.0\CargaClic.Domain.dll
+D:\RIA\Aplicaciones\TWH\app\twh-api\Domain\CargaClic.Domain\obj\Debug\netstandard2.0\CargaClic.Domain.pdb

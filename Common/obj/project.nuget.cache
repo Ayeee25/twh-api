@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "16llZzm/muscL8x4+mRqwDdydGUGrWPsi5G0JxmT+HqXnWqwMKC1YjHyYfnBT3+R+6Mn3aajVRxCoXbTWLe7eA==",
+  "dgSpecHash": "M8R40L5XJahX0d4yoCKucIo2u2VGyAbdfA44Mo/9nOaqck5IDRZJ3DxQYGLR4r+E91Ic4SltEfMbsNk2YHqhEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj",
+  "projectFilePath": "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kike_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kike_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

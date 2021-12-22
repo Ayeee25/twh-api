@@ -51,3 +51,13 @@ C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\C
 C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
 C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.dll
 C:\Users\kike_\OneDrive\Escritorio\twh\twh-api\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\bin\Debug\netstandard2.0\Common.dll
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\obj\Debug\netstandard2.0\Common.dll
+D:\RIA\Aplicaciones\TWH\app\twh-api\Common\obj\Debug\netstandard2.0\Common.pdb

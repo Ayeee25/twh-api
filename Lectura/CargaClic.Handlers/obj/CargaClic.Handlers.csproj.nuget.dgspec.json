@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.Handlers\\CargaClic.Handlers.csproj": {}
+    "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaClic.Handlers\\CargaClic.Handlers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj": {
+    "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj",
+        "projectUniqueName": "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj",
+        "projectPath": "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\kike_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\obj\\",
+        "outputPath": "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\kike_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -68,22 +70,24 @@
         }
       }
     },
-    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj": {
+    "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj",
+        "projectUniqueName": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj",
         "projectName": "CargaClic.Data",
-        "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj",
+        "projectPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj",
         "packagesPath": "C:\\Users\\kike_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\obj\\",
+        "outputPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Data\\CargaClic.Data\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\kike_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -96,11 +100,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj"
+              "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj": {
+                "projectPath": "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj"
               },
-              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj": {
-                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj"
+              "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj": {
+                "projectPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj"
               }
             }
           }
@@ -152,21 +156,23 @@
         }
       }
     },
-    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj": {
+    "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj",
+        "projectUniqueName": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj",
         "projectName": "CargaClic.Domain",
-        "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj",
+        "projectPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj",
         "packagesPath": "C:\\Users\\kike_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\obj\\",
+        "outputPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Domain\\CargaClic.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\kike_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -179,8 +185,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj"
+              "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj": {
+                "projectPath": "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj"
               }
             }
           }
@@ -220,21 +226,23 @@
         }
       }
     },
-    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj": {
+    "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj",
+        "projectUniqueName": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj",
         "projectName": "CargaClic.Contracts",
-        "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj",
+        "projectPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj",
         "packagesPath": "C:\\Users\\kike_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaCLic.Contracts\\obj\\",
+        "outputPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaCLic.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\kike_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -247,8 +255,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj"
+              "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj": {
+                "projectPath": "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj"
               }
             }
           }
@@ -284,21 +292,23 @@
         }
       }
     },
-    "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.Handlers\\CargaClic.Handlers.csproj": {
+    "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaClic.Handlers\\CargaClic.Handlers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.Handlers\\CargaClic.Handlers.csproj",
+        "projectUniqueName": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaClic.Handlers\\CargaClic.Handlers.csproj",
         "projectName": "CargaClic.Handlers",
-        "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.Handlers\\CargaClic.Handlers.csproj",
+        "projectPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaClic.Handlers\\CargaClic.Handlers.csproj",
         "packagesPath": "C:\\Users\\kike_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.Handlers\\obj\\",
+        "outputPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaClic.Handlers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\kike_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -311,14 +321,14 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Common\\Common.csproj"
+              "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj": {
+                "projectPath": "d:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Common\\Common.csproj"
               },
-              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj": {
-                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj"
+              "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj": {
+                "projectPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Data\\CargaClic.Data\\CargaClic.Data.csproj"
               },
-              "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj": {
-                "projectPath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj"
+              "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj": {
+                "projectPath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaCLic.Contracts\\CargaClic.Contracts.csproj"
               }
             }
           }

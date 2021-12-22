@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nALYOcW7ue0rwxO6myT/Ti3TRPx4NPAYuBCLmJf+l0+EAnvstCfU/3KkVJXFsKW8cBnDYBi3rhecdhfe32aOmA==",
+  "dgSpecHash": "fLV6PiK6Pr+MMaxDj4P1rvWMIHg2EZTr5eK31FAoB4y/E3KRbmpz5qpc1gwrsyflCTR+KMNawYji+KO2Pj0J6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Lectura\\CargaClic.ReadRepository\\CargaClic.ReadRepository.csproj",
+  "projectFilePath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Lectura\\CargaClic.ReadRepository\\CargaClic.ReadRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kike_\\.nuget\\packages\\dapper\\1.50.5\\dapper.1.50.5.nupkg.sha512",
     "C:\\Users\\kike_\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

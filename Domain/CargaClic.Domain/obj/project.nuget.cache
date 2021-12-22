@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nScbU8+8JV2lWGkz0PFNLQ+AOElB8HSakrhuU/cxxPK1LabzY0Ymwt3I5Xe+JZZedU7LMGqUFSosGp1Hh8HJHg==",
+  "dgSpecHash": "WGfwAdTf7CfZGywyvX7RaSt5WV/Nk9jT6OL5Q+5gw0PafYLDnt398ii86m9BOCQxZoQJjQUP0q+f+7Ls8YES1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kike_\\OneDrive\\Escritorio\\twh\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj",
+  "projectFilePath": "D:\\RIA\\Aplicaciones\\TWH\\app\\twh-api\\Domain\\CargaClic.Domain\\CargaClic.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kike_\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.8\\microsoft.entityframeworkcore.2.1.8.nupkg.sha512",
     "C:\\Users\\kike_\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.1.8\\microsoft.entityframeworkcore.abstractions.2.1.8.nupkg.sha512",
